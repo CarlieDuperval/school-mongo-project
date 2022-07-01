@@ -13,6 +13,8 @@ let schoolRating = db.collection('school-rating');
 // let pKschool = db.collection('pk-schools');
 // let highSchool = db.collection('high-schools');
 
+
+ 
 // 1-
 // await schoolRating.insertOne({
 //     name:'Okaloosa Stemm Center',
